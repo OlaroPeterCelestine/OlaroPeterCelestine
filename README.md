@@ -2,6 +2,8 @@
 
 **Full-Stack & AI Engineer · TypeScript · Go · Flutter · Python**
 
+> Enterprise platforms & AI systems · **Open to opportunities** · Uganda
+
 I design and ship production systems — enterprise platforms, mobile apps, API gateways, fleet management, and AI-powered products. Most of my work is in private/client repositories; this profile highlights what I build and how I work.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-olaropetercelestine.com-0ea5e9?style=for-the-badge)](https://www.olaropetercelestine.com)
