@@ -17,7 +17,7 @@
 
 <p align="center">
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" title="Pull Shark — Merged pull requests" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" title="Pair Extraordinaire — Co-authored commits" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" title="Quickdraw — Closed issue/PR within 5 min" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" title="YOLO — Merged PR without review" />
 </p>
@@ -32,7 +32,7 @@
 
 | What you need | Proof |
 |---------------|-------|
-| **Experience** | 170+ repos · 2+ years shipping on GitHub |
+| **Experience** | 2+ years shipping production software on GitHub |
 | **Stack** | TypeScript · Go · Python · Flutter · FastAPI · PostgreSQL |
 | **Domains** | Enterprise ERP · Fleet/GPS · Media streaming · AI/LLM · Fintech |
 | **Scale** | Multi-module platforms, microservices, mobile + API + web |
@@ -156,8 +156,6 @@ Radio · movies (BLoC) · fleet · rental · regional apps
 ---
 
 <div align="center">
-
-*All commits are mine — no AI co-author attribution.*
 
 **Building reliable software across web, mobile, and AI — for teams everywhere.**
 
