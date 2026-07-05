@@ -52,6 +52,15 @@ Software engineer focused on **scalable backends**, **modern web apps**, and **A
 
 ## GitHub activity
 
+### Achievements
+
+<p align="left">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-bronze.png" width="90" alt="Pull Shark Bronze" title="Pull Shark — Bronze (16+ merged PRs)" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-bronze.png" width="90" alt="Pair Extraordinaire Bronze" title="Pair Extraordinaire — Bronze (10+ co-authored PRs)" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="90" alt="YOLO" title="YOLO — Merged a PR without review" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="90" alt="Quickdraw" title="Quickdraw — Closed an issue or PR within 5 minutes" />
+</p>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OlaroPeterCelestine&show_icons=true&theme=tokyonight&hide_title=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OlaroPeterCelestine&layout=compact&theme=tokyonight&hide_title=true)
