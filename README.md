@@ -16,10 +16,10 @@
 ## GitHub Achievements
 
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" title="Pull Shark — Merged pull requests" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="72" alt="Pull Shark" title="Pull Shark" />
   <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="72" alt="Pair Extraordinaire" title="Pair Extraordinaire" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" title="Quickdraw — Closed issue/PR within 5 min" />
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" title="YOLO — Merged PR without review" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="72" alt="Quickdraw" title="Quickdraw" />
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="72" alt="YOLO" title="YOLO" />
 </p>
 
 <p align="center">
@@ -32,13 +32,13 @@
 
 | What you need | Proof |
 |---------------|-------|
-| **Experience** | 2+ years shipping production software on GitHub |
+| **Experience** | 2+ years shipping production software |
 | **Stack** | TypeScript · Go · Python · Flutter · FastAPI · PostgreSQL |
 | **Domains** | Enterprise ERP · Fleet/GPS · Media streaming · AI/LLM · Fintech |
 | **Scale** | Multi-module platforms, microservices, mobile + API + web |
 | **Availability** | ✅ Hireable · Remote worldwide · Email response < 24h |
-| **NDA / private work** | Most client code private — **live walkthrough on request** |
-| **Open source** | 24+ AI forks · [FuseIQ LangChain PR](https://github.com/fuseiq-io/fuseiq-agent-sdk/pull/3) |
+| **NDA / private work** | Client code private — **live walkthrough on request** |
+| **Open source** | [FuseIQ LangChain PR](https://github.com/fuseiq-io/fuseiq-agent-sdk/pull/3) |
 
 ---
 
@@ -61,13 +61,13 @@ I build **production software** for global teams — enterprise dashboards, Go m
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OlaroPeterCelestine&layout=compact&theme=tokyonight&langs_count=10&hide=css,html&hide_border=true" height="165" alt="Top languages" />
 </p>
 
-| Language | Volume | Use cases |
-|----------|-------:|-----------|
-| **TypeScript** | 87+ repos | Next.js, React, Angular, ERP dashboards, API gateways |
-| **Go** | 26+ repos | Gin APIs, JWT auth, fleet GPS, microservices |
-| **Python** | 22+ repos | FastAPI, LLM apps, AI tutoring, automation |
-| **Dart / Flutter** | 19+ repos | iOS & Android — streaming, fleet, fintech, sales |
-| **JavaScript · PHP · C++** | — | Node, CRM, llama.cpp ecosystem |
+| Language | Use cases |
+|----------|-----------|
+| **TypeScript** | Next.js, React, Angular, ERP dashboards, API gateways |
+| **Go** | Gin APIs, JWT auth, fleet GPS, microservices |
+| **Python** | FastAPI, LLM apps, AI tutoring, automation |
+| **Dart / Flutter** | iOS & Android — streaming, fleet, fintech, sales |
+| **JavaScript · PHP · C++** | Node, CRM, llama.cpp ecosystem |
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -105,7 +105,7 @@ NRG Radio Uganda — streaming web + Flutter apps + Go APIs
 <td width="50%">
 
 ### 🤖 AI & automation
-WhatsApp AI bot · LLM tutoring · LangChain/Ollama/vLLM forks  
+WhatsApp AI bot · LLM tutoring · LangChain / Ollama / vLLM  
 [Open PR — LangChain adapter](https://github.com/fuseiq-io/fuseiq-agent-sdk/pull/3)
 
 ### 💳 Fintech & events
@@ -130,10 +130,10 @@ Radio · movies (BLoC) · fleet · rental · regional apps
 
 ## What recruiters ask → my answers
 
-**"Can we see code?"** → Private client repos; I share sanitized samples + architecture docs on request.  
+**"Can we see code?"** → Private client repos; sanitized samples + architecture docs on request.  
 **"Remote?"** → Yes — async-friendly, UTC+3, overlap with EU/US mornings.  
 **"Team size?"** → Solo lead + small teams; full-stack ownership end-to-end.  
-**"AI experience?"** → Production LLM integrations, WhatsApp bots, OpenAI-compatible APIs, 24 AI OSS forks.  
+**"AI experience?"** → Production LLM integrations, WhatsApp bots, OpenAI-compatible APIs.  
 **"References?"** → Available after first interview.
 
 ---
