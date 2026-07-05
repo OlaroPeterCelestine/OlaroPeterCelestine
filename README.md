@@ -38,7 +38,31 @@
 | **Scale** | Multi-module platforms, microservices, mobile + API + web |
 | **Availability** | ✅ Hireable · Remote worldwide · Email response < 24h |
 | **NDA / private work** | Client code private — **live walkthrough on request** |
-| **Open source** | [FuseIQ LangChain PR](https://github.com/fuseiq-io/fuseiq-agent-sdk/pull/3) |
+| **Open source** | [FuseIQ LangChain PR](https://github.com/fuseiq-io/fuseiq-agent-sdk/pull/3) · [Multi-language showcases](#-worldwide-portfolio-showcases) |
+
+---
+
+## 🌍 Worldwide portfolio showcases
+
+Public recruiter-friendly samples across **15 languages** — each repo has runnable code and a clean README.
+
+| Language | Project | Link |
+|----------|---------|------|
+| Go | REST API (Gin) | [showcase-go-api](https://github.com/OlaroPeterCelestine/showcase-go-api) |
+| Python | FastAPI backend | [showcase-python-api](https://github.com/OlaroPeterCelestine/showcase-python-api) |
+| TypeScript | Express API | [showcase-typescript-api](https://github.com/OlaroPeterCelestine/showcase-typescript-api) |
+| Rust | CLI tool | [showcase-rust-cli](https://github.com/OlaroPeterCelestine/showcase-rust-cli) |
+| Java | Spark API | [showcase-java-api](https://github.com/OlaroPeterCelestine/showcase-java-api) |
+| Kotlin | Ktor API | [showcase-kotlin-api](https://github.com/OlaroPeterCelestine/showcase-kotlin-api) |
+| Ruby | Sinatra API | [showcase-ruby-api](https://github.com/OlaroPeterCelestine/showcase-ruby-api) |
+| PHP | JSON API | [showcase-php-api](https://github.com/OlaroPeterCelestine/showcase-php-api) |
+| C# | .NET 8 minimal API | [showcase-csharp-api](https://github.com/OlaroPeterCelestine/showcase-csharp-api) |
+| JavaScript | Node.js API | [showcase-node-api](https://github.com/OlaroPeterCelestine/showcase-node-api) |
+| Dart / Flutter | Mobile app | [showcase-flutter-app](https://github.com/OlaroPeterCelestine/showcase-flutter-app) |
+| Swift | CLI sample | [showcase-swift-cli](https://github.com/OlaroPeterCelestine/showcase-swift-cli) |
+| Elixir | Plug API | [showcase-elixir-api](https://github.com/OlaroPeterCelestine/showcase-elixir-api) |
+| C | Systems sample | [showcase-c-api](https://github.com/OlaroPeterCelestine/showcase-c-api) |
+| Scala | JVM sample | [showcase-scala-api](https://github.com/OlaroPeterCelestine/showcase-scala-api) |
 
 ---
 
