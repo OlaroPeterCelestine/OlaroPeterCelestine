@@ -89,3 +89,5 @@ Software engineer focused on **scalable backends**, **modern web apps**, and **A
 ---
 
 *Building reliable software across web, mobile, and AI — one system at a time.*
+
+<!-- profile-updated -->
