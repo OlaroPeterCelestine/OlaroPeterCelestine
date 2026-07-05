@@ -42,6 +42,23 @@
 
 ---
 
+## 📌 Pinned on profile
+
+GitHub shows **6 pinned repos** — chosen to cover backend, mobile, and systems languages at a glance:
+
+| Pinned repo | Language | Highlights |
+|-------------|----------|------------|
+| [go-rest-gateway](https://github.com/OlaroPeterCelestine/go-rest-gateway) | Go | Gin REST API, health checks, JSON microservice |
+| [python-fastapi-service](https://github.com/OlaroPeterCelestine/python-fastapi-service) | Python | FastAPI, OpenAPI, typed handlers |
+| [typescript-express-service](https://github.com/OlaroPeterCelestine/typescript-express-service) | TypeScript | Strict Express REST API |
+| [flutter-crossplatform-app](https://github.com/OlaroPeterCelestine/flutter-crossplatform-app) | Dart / Flutter | iOS & Android from one codebase |
+| [fleettrack-kotlin](https://github.com/OlaroPeterCelestine/fleettrack-kotlin) | Kotlin | Ktor fleet GPS REST API + tests |
+| [taskhub-swift](https://github.com/OlaroPeterCelestine/taskhub-swift) | Swift | Actor-based CLI task manager + XCTest |
+
+> **22 public repos** across **15+ languages** — full list below.
+
+---
+
 ## 🌍 Open-source projects by language
 
 Public projects across **15 languages** — runnable code, professional READMEs.
@@ -63,6 +80,24 @@ Public projects across **15 languages** — runnable code, professional READMEs.
 | Elixir | Plug API | [elixir-plug-service](https://github.com/OlaroPeterCelestine/elixir-plug-service) |
 | C | Systems toolkit | [c-systems-toolkit](https://github.com/OlaroPeterCelestine/c-systems-toolkit) |
 | Scala | JVM service | [scala-jvm-service](https://github.com/OlaroPeterCelestine/scala-jvm-service) |
+
+<p align="center">
+  <a href="https://github.com/OlaroPeterCelestine/go-rest-gateway"><img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/python-fastapi-service"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/typescript-express-service"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/rust-cli-toolkit"><img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/java-spark-service"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/kotlin-ktor-service"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/ruby-sinatra-service"><img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/php-json-service"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/dotnet-minimal-service"><img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/node-express-service"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/flutter-crossplatform-app"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/swift-cli-toolkit"><img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white" alt="Swift" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/elixir-plug-service"><img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white" alt="Elixir" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/c-systems-toolkit"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/scala-jvm-service"><img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=scala&logoColor=white" alt="Scala" /></a>
+</p>
 
 ---
 
