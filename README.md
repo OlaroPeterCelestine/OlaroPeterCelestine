@@ -66,6 +66,21 @@ Public recruiter-friendly samples across **15 languages** — each repo has runn
 
 ---
 
+## 🛠 Professional open-source projects
+
+Full working applications — not demos. Built for worldwide recruiter review.
+
+| Language | Project | What it does |
+|----------|---------|--------------|
+| **Swift** | [taskhub-swift](https://github.com/OlaroPeterCelestine/taskhub-swift) | Actor-based CLI task manager, JSON persistence, XCTest |
+| **Kotlin** | [fleettrack-kotlin](https://github.com/OlaroPeterCelestine/fleettrack-kotlin) | Fleet GPS REST API (Ktor), vehicle tracking, tests |
+| **C++** | [cpp-http-gateway](https://github.com/OlaroPeterCelestine/cpp-http-gateway) | C++17 HTTP gateway, CMake, event ingestion |
+| **Zig** | [zig-kv-server](https://github.com/OlaroPeterCelestine/zig-kv-server) | In-memory key-value HTTP server |
+| **Haskell** | [haskell-notes-api](https://github.com/OlaroPeterCelestine/haskell-notes-api) | Functional notes API (Warp/Wai) |
+| **Nim** | [nim-notes-api](https://github.com/OlaroPeterCelestine/nim-notes-api) | Async HTTP notes service |
+| **F#** | [fsharp-giraffe-api](https://github.com/OlaroPeterCelestine/fsharp-giraffe-api) | Giraffe invoices API on .NET 8 |
+
+
 ## About me
 
 I build **production software** for global teams — enterprise dashboards, Go microservices, Flutter mobile apps, and AI integrations. Comfortable working async across time zones with clear documentation and CI-backed delivery.
