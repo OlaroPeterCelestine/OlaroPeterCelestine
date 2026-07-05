@@ -66,7 +66,7 @@ I build **production software** for global teams — enterprise dashboards, Go m
 | **TypeScript** | Next.js, React, Angular, ERP dashboards, API gateways |
 | **Go** | Gin APIs, JWT auth, fleet GPS, microservices |
 | **Python** | FastAPI, LLM apps, AI tutoring, automation |
-| **Dart / Flutter** | iOS & Android — streaming, fleet, fintech, sales |
+| **Dart / Flutter** | iOS & Android — streaming, fleet, fintech, sales · [pub.dev](https://pub.dev) packages |
 | **JavaScript · PHP · C++** | Node, CRM, llama.cpp ecosystem |
 
 <p align="center">
@@ -74,6 +74,8 @@ I build **production software** for global teams — enterprise dashboards, Go m
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <a href="https://pub.dev"><img src="https://img.shields.io/badge/pub.dev-Official%20Dart%20%26%20Flutter%20packages-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="pub.dev" /></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
@@ -112,7 +114,8 @@ WhatsApp AI bot · LLM tutoring · LangChain / Ollama / vLLM
 Finance workspaces · e-commerce · DREAD ticketing · sports platforms
 
 ### 📱 Mobile (Flutter)
-Radio · movies (BLoC) · fleet · rental · regional apps
+Radio · movies (BLoC) · fleet · rental · regional apps  
+Packages via **[pub.dev](https://pub.dev)** — the official package repository for Dart and Flutter apps
 
 </td>
 </tr>
