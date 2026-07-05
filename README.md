@@ -38,31 +38,31 @@
 | **Scale** | Multi-module platforms, microservices, mobile + API + web |
 | **Availability** | ✅ Hireable · Remote worldwide · Email response < 24h |
 | **NDA / private work** | Client code private — **live walkthrough on request** |
-| **Open source** | [FuseIQ LangChain PR](https://github.com/fuseiq-io/fuseiq-agent-sdk/pull/3) · [Multi-language showcases](#-worldwide-portfolio-showcases) |
+| **Open source** | [FuseIQ LangChain PR](https://github.com/fuseiq-io/fuseiq-agent-sdk/pull/3) · [Projects by language](#-open-source-projects-by-language) |
 
 ---
 
-## 🌍 Worldwide portfolio showcases
+## 🌍 Open-source projects by language
 
-Public recruiter-friendly samples across **15 languages** — each repo has runnable code and a clean README.
+Public projects across **15 languages** — runnable code, professional READMEs.
 
 | Language | Project | Link |
 |----------|---------|------|
-| Go | REST API (Gin) | [showcase-go-api](https://github.com/OlaroPeterCelestine/showcase-go-api) |
-| Python | FastAPI backend | [showcase-python-api](https://github.com/OlaroPeterCelestine/showcase-python-api) |
-| TypeScript | Express API | [showcase-typescript-api](https://github.com/OlaroPeterCelestine/showcase-typescript-api) |
-| Rust | CLI tool | [showcase-rust-cli](https://github.com/OlaroPeterCelestine/showcase-rust-cli) |
-| Java | Spark API | [showcase-java-api](https://github.com/OlaroPeterCelestine/showcase-java-api) |
-| Kotlin | Ktor API | [showcase-kotlin-api](https://github.com/OlaroPeterCelestine/showcase-kotlin-api) |
-| Ruby | Sinatra API | [showcase-ruby-api](https://github.com/OlaroPeterCelestine/showcase-ruby-api) |
-| PHP | JSON API | [showcase-php-api](https://github.com/OlaroPeterCelestine/showcase-php-api) |
-| C# | .NET 8 minimal API | [showcase-csharp-api](https://github.com/OlaroPeterCelestine/showcase-csharp-api) |
-| JavaScript | Node.js API | [showcase-node-api](https://github.com/OlaroPeterCelestine/showcase-node-api) |
-| Dart / Flutter | Mobile app | [showcase-flutter-app](https://github.com/OlaroPeterCelestine/showcase-flutter-app) |
-| Swift | CLI sample | [showcase-swift-cli](https://github.com/OlaroPeterCelestine/showcase-swift-cli) |
-| Elixir | Plug API | [showcase-elixir-api](https://github.com/OlaroPeterCelestine/showcase-elixir-api) |
-| C | Systems sample | [showcase-c-api](https://github.com/OlaroPeterCelestine/showcase-c-api) |
-| Scala | JVM sample | [showcase-scala-api](https://github.com/OlaroPeterCelestine/showcase-scala-api) |
+| Go | REST API (Gin) | [go-rest-gateway](https://github.com/OlaroPeterCelestine/go-rest-gateway) |
+| Python | FastAPI backend | [python-fastapi-service](https://github.com/OlaroPeterCelestine/python-fastapi-service) |
+| TypeScript | Express API | [typescript-express-service](https://github.com/OlaroPeterCelestine/typescript-express-service) |
+| Rust | CLI toolkit | [rust-cli-toolkit](https://github.com/OlaroPeterCelestine/rust-cli-toolkit) |
+| Java | Spark API | [java-spark-service](https://github.com/OlaroPeterCelestine/java-spark-service) |
+| Kotlin | Ktor API | [kotlin-ktor-service](https://github.com/OlaroPeterCelestine/kotlin-ktor-service) |
+| Ruby | Sinatra API | [ruby-sinatra-service](https://github.com/OlaroPeterCelestine/ruby-sinatra-service) |
+| PHP | JSON API | [php-json-service](https://github.com/OlaroPeterCelestine/php-json-service) |
+| C# | .NET 8 minimal API | [dotnet-minimal-service](https://github.com/OlaroPeterCelestine/dotnet-minimal-service) |
+| JavaScript | Node.js API | [node-express-service](https://github.com/OlaroPeterCelestine/node-express-service) |
+| Dart / Flutter | Mobile app | [flutter-crossplatform-app](https://github.com/OlaroPeterCelestine/flutter-crossplatform-app) |
+| Swift | CLI toolkit | [swift-cli-toolkit](https://github.com/OlaroPeterCelestine/swift-cli-toolkit) |
+| Elixir | Plug API | [elixir-plug-service](https://github.com/OlaroPeterCelestine/elixir-plug-service) |
+| C | Systems toolkit | [c-systems-toolkit](https://github.com/OlaroPeterCelestine/c-systems-toolkit) |
+| Scala | JVM service | [scala-jvm-service](https://github.com/OlaroPeterCelestine/scala-jvm-service) |
 
 ---
 
