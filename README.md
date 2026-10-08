@@ -63,7 +63,7 @@ I am currently shipping production software and I am open to remote full-time an
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OlaroPeterCelestine&theme=tokyo-night&hide_border=true&area=true&height=280" alt="Contribution graph" />
+  <img src="images/contribution-graph.png" alt="Contribution graph" />
 </p>
 
 ---
@@ -71,7 +71,7 @@ I am currently shipping production software and I am open to remote full-time an
 ## GitHub trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=OlaroPeterCelestine&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4&column=4" alt="GitHub trophies" />
+  <img src="images/github-trophies.png" alt="GitHub trophies" />
 </p>
 
 ---
