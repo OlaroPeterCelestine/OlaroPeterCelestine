@@ -76,6 +76,79 @@ I am currently shipping production software and I am open to remote full-time an
 
 ---
 
+
+## Images
+
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/210414834?v=4" width="120" alt="Olaro Peter Celestine" />
+</p>
+
+### Shule
+
+<p align="center">
+  <a href="https://github.com/OlaroPeterCelestine/shule"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/shule/main/public/logo.png" width="160" alt="Shule logo" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/shule"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/shule/main/public/application-form.jpg" width="320" alt="Shule application form" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/shule"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/shule/main/mobile/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" width="120" alt="Shule app icon" /></a>
+</p>
+
+### IAG maintenance
+
+<p align="center">
+  <a href="https://github.com/OlaroPeterCelestine/iag-maintenance"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-maintenance/main/docs/screenshots/logo.png" width="160" alt="IAG logo" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/iag-maintenance"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-maintenance/main/docs/screenshots/login.png" width="320" alt="IAG maintenance login" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/iag-maintenance"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-maintenance/main/docs/screenshots/entities.png" width="320" alt="IAG maintenance entities" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/iag-maintenance"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-maintenance/main/docs/screenshots/stock.png" width="320" alt="IAG maintenance stock" /></a>
+</p>
+
+### IAG finance and traceability
+
+<p align="center">
+  <a href="https://github.com/OlaroPeterCelestine/iag-erp-android"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-erp-android/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="IAG ERP app icon" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/iag-erp-android"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-erp-android/main/app/src/main/res/drawable/iag_logo.png" width="160" alt="IAG ERP logo" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/iag-erp-ios"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-erp-ios/main/App/Assets.xcassets/IagSplash.imageset/iag-splash.png" width="220" alt="IAG ERP splash" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/iag-trace-android"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-trace-android/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="IAG Trace app icon" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/iag-trace-android"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-trace-android/main/app/src/main/res/drawable/iag_logo.png" width="160" alt="IAG Trace logo" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/iag-trace-ios"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-trace-ios/main/App/Assets.xcassets/IagSplash.imageset/iag-splash.png" width="220" alt="IAG Trace splash" /></a>
+</p>
+
+### Timwork Sports
+
+<p align="center">
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-hero-match.png" width="240" alt="Match" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-stadium.png" width="240" alt="Stadium" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-football.png" width="240" alt="Football" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-basketball.png" width="240" alt="Basketball" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-boxing.png" width="240" alt="Boxing" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-tennis.png" width="240" alt="Tennis" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-swim.png" width="240" alt="Swimming" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-track.png" width="240" alt="Track" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-nile.png" width="240" alt="Nile" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-gardens.png" width="240" alt="Gardens" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-market.png" width="240" alt="Market" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-cafe.png" width="240" alt="Cafe" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-merch-ball.png" width="180" alt="Ball" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-merch-cap.png" width="180" alt="Cap" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-merch-hoodie.png" width="180" alt="Hoodie" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-merch-jersey.png" width="180" alt="Jersey" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-merch-shell.png" width="180" alt="Shell" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-merch-singlet.png" width="180" alt="Singlet" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-coach-amina.png" width="160" alt="Coach Amina" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-coach-david.png" width="160" alt="Coach David" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-coach-grace.png" width="160" alt="Coach Grace" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-coach-joseph.png" width="160" alt="Coach Joseph" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-coach-peter.png" width="160" alt="Coach Peter" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/timworksports"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/timworksports/main/images/ug-coach-ruth.png" width="160" alt="Coach Ruth" /></a>
+</p>
+
+### Tel-Agent
+
+<p align="center">
+  <a href="https://github.com/OlaroPeterCelestine/Tel-Agent"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/Tel-Agent/main/docs/brand/tel-agent-logo/tel-agent-octopus-purple-256.png" width="160" alt="Tel-Agent logo" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/Tel-Agent"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/Tel-Agent/main/logo.png" width="220" alt="Tel-Agent" /></a>
+</p>
+
+---
+
 ## Projects
 
 | Project | What it is |
