@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0ea5e9&height=160&section=header&text=Olaro%20Peter%20Celestine&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20%26%20AI%20Engineer%20%C2%B7%20Data%20Analyst&descAlignY=55&descSize=18"/>
 
+[![Status](https://img.shields.io/badge/Status-A%2B-success?style=for-the-badge)](https://github.com/OlaroPeterCelestine)
 [![Portfolio](https://img.shields.io/badge/Portfolio-olaropetercelestine.com-0ea5e9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.olaropetercelestine.com)
 [![Email](https://img.shields.io/badge/Email-olaropetercelestine@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:olaropetercelestine@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-OlaroPeterCelestine-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/OlaroPeterCelestine)
@@ -97,7 +98,7 @@ Primary languages: **TypeScript**, **Python**, and **Go**. I also ship with **Ko
 
 | | |
 | --- | --- |
-| **Status** | Open to full-time and contract work |
+| **Status** | A+ |
 | **Location** | Uganda, remote worldwide |
 | **Timezone** | UTC+3 |
 | **Email** | [olaropetercelestine@gmail.com](mailto:olaropetercelestine@gmail.com) |
