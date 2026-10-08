@@ -103,8 +103,8 @@ I am currently shipping production software and I am open to remote full-time an
 ### IAG finance and traceability
 
 <p align="center">
-  <a href="https://github.com/OlaroPeterCelestine/iag-erp-android"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-erp-android/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="IAG ERP app icon" /></a>
-  <a href="https://github.com/OlaroPeterCelestine/iag-erp-android"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-erp-android/main/app/src/main/res/drawable/iag_logo.png" width="160" alt="IAG ERP logo" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/iag-erp-ios"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-erp-ios/main/App/Assets.xcassets/AppIcon.appiconset/AppIcon.png" width="96" alt="IAG ERP app icon" /></a>
+  <a href="https://github.com/OlaroPeterCelestine/iag-erp-ios"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-erp-ios/main/App/Assets.xcassets/IagLogo.imageset/iag-logo.png" width="160" alt="IAG ERP logo" /></a>
   <a href="https://github.com/OlaroPeterCelestine/iag-erp-ios"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-erp-ios/main/App/Assets.xcassets/IagSplash.imageset/iag-splash.png" width="220" alt="IAG ERP splash" /></a>
   <a href="https://github.com/OlaroPeterCelestine/iag-trace-android"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-trace-android/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="IAG Trace app icon" /></a>
   <a href="https://github.com/OlaroPeterCelestine/iag-trace-android"><img src="https://raw.githubusercontent.com/OlaroPeterCelestine/iag-trace-android/main/app/src/main/res/drawable/iag_logo.png" width="160" alt="IAG Trace logo" /></a>
