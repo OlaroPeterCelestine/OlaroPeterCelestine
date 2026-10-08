@@ -76,22 +76,6 @@ I am currently shipping production software and I am open to remote full-time an
 
 ---
 
-## Projects
-
-| Project | What it is |
-| --- | --- |
-| [shule](https://github.com/OlaroPeterCelestine/shule) | School operating system for Little Royals Kindergarten & Primary |
-| [iag-erp-ios](https://github.com/OlaroPeterCelestine/iag-erp-ios) · [iag-erp-android](https://github.com/OlaroPeterCelestine/iag-erp-android) | Native finance ERP for iOS and Android |
-| [iag-trace-ios](https://github.com/OlaroPeterCelestine/iag-trace-ios) · [iag-trace-android](https://github.com/OlaroPeterCelestine/iag-trace-android) | Farmer traceability apps |
-| [iag-maintenance](https://github.com/OlaroPeterCelestine/iag-maintenance) | Machinery maintenance: work orders, schedules, spare parts |
-| [timworksports](https://github.com/OlaroPeterCelestine/timworksports) | Timwork Sports site and Crested Pass mobile apps |
-| [Tel-Agent](https://github.com/OlaroPeterCelestine/Tel-Agent) | Open-source AI phone assistant |
-| [sms](https://github.com/OlaroPeterCelestine/sms) | Africa's Talking SMS backend for Next.js |
-| [marathon-registration](https://github.com/OlaroPeterCelestine/marathon-registration) | Marathon registration with Prisma and Postgres |
-| [inspire-africa-cafe](https://github.com/OlaroPeterCelestine/inspire-africa-cafe) | Kampala coffeehouse website |
-
----
-
 ## Hire me
 
 | | |
