@@ -14,12 +14,13 @@
 
 ## About me
 
-I am a full-stack and AI engineer. I build web apps, mobile apps, and backends for schools, finance, traceability, sports, and media.
+I am a full-stack and AI engineer, a data analyst, and a hardware student. I build web apps, mobile apps, and backends for schools, finance, traceability, sports, and media.
 
-I am currently shipping production software and I am open to remote full-time and contract work.
+I am currently shipping production software, learning cybersecurity, and I am open to remote full-time and contract work.
 
 - Favorite languages: **TypeScript**, **Python**, and **Go**
 - Also building with **Kotlin**, **Swift**, and **Flutter**
+- Data analysis, hardware, and cybersecurity
 
 ---
 
