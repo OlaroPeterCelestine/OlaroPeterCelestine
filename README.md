@@ -76,7 +76,6 @@ I am currently shipping production software and I am open to remote full-time an
 
 ---
 
-
 ## Projects
 
 | Project | What it is |
